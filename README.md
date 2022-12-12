@@ -1,5 +1,5 @@
 # crisostomo-cmsc-190-simbee
- Repository in partial fulfillment of CMSC 190-2 Special Problem of the BS Computer Science degree program
+A Special Problem presented to the faculty of the Institute of Computer Science University of the Philippines Los Baños, in Partial Fulfillment of the Requirements for the Degree of Bachelor of Science in Computer Science.
 
 [ IMPORTANT ]
 Source codes are found in TestBeehive/Assets/Scripts
