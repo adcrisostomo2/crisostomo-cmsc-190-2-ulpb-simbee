@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: db59069bc65be6b4c8a2180cc6b01e40
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - specific_frame_canvas: {fileID: 7956436005467404690, guid: b95f2951b96ee0b43a6161a91dab2fce,
+      type: 3}
+  - frame_slot_canvas: {fileID: 8292713602923219630, guid: cff8d1c91774b564aa64a84ce613c16f,
+      type: 3}
+  - frame_type_canvas: {fileID: 8524878223497341741, guid: af95781f54ab42d4a945d9fe2956510f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
